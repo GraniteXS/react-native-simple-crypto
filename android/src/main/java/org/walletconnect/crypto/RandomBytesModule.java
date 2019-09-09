@@ -1,4 +1,4 @@
-package com.pedrouid.randombytes;
+package org.walletconnect.crypto;
 
 import com.facebook.react.bridge.ReactMethod;
 import com.facebook.react.bridge.ReactApplicationContext;
